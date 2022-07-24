@@ -391,9 +391,9 @@ form p{
         width: 200px;
     }
     .aboutTxt{
-        margin-left: 20px;
-        margin-right: 20px;
-        margin-bottom: 100px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 70px;
         font-size: 18px;
         line-height: 28px;
     }
@@ -414,14 +414,16 @@ form p{
         justify-content: center;
     }
     .servCard{
-        width: 85%;
-        height: 320px;
+        width: 90%;
+        height: 370px;
         padding-top: 20px;
     }
     .mobImg{
         display: block;
-        width: 100%;
-        margin-bottom: 120px;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 100px;
     }
     .deskImg{
         display: none;
@@ -441,7 +443,7 @@ form p{
         margin-bottom: 120px;
     }
     .mapDiv{
-        width: 85%;
+        width: 90%;
         margin-left: auto;
         margin-right: auto;
     }
@@ -451,7 +453,7 @@ form p{
         border-radius: 20px;
     }
     form{
-        width: 95%;
+        width: 100%;
         display: flex;
         flex-direction: column;
         margin-left: auto;
@@ -527,6 +529,12 @@ form p{
     }
     .contTxtt{
         display: none;
+    }
+    .banner-in h4{
+        margin-right: 30px;
+    }
+    .logo{
+        margin-left: 25px;
     }
     
 }
